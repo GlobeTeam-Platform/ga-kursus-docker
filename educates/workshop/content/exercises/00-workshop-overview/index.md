@@ -1,3 +1,8 @@
+---
+title: "Workshop Overview"
+---
+
+
 Welcome to Docker fundamentals
 
 This workshop will take you thru the basics of Docker and Docker Compose, so you understand how to 
@@ -6,4 +11,4 @@ This workshop will take you thru the basics of Docker and Docker Compose, so you
 - Run a container
 - Run an application that consist of multiple containers
 
-![docker](exercises/images/0-1.png)
+![docker](1.png)

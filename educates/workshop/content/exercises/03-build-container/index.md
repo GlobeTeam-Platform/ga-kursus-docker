@@ -1,3 +1,8 @@
+---
+title: "Build container"
+---
+
+
 Switch back to the `Terminal` tab
 
 To build your first container run 

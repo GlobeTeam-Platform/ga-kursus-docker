@@ -1,8 +1,13 @@
+---
+title: "Docker Hub"
+---
+
+
 - Open https://hub.docker.com in another tab or browser
 
 - Search for Nginx
 - Click on the official image (Should be on top)
-![Nginx](images/1-1.png)
+![Nginx](1.png)
 - Go thru the documentaion in class, and talk about:
     - Official Image
     - Reference
