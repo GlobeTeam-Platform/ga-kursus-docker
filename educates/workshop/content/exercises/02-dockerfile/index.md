@@ -8,11 +8,16 @@ A Dockerfile is a text-based document that's used to create a container image.
 It provides instructions to the image builder on the commands to run, files to copy, startup command, and more.
 
 
-Switch to the Editor tab
+Switch to the Editor tab, and open the the file `Dockerfile`
+```editor:open-file
+title: Open Dockerfile
+file: ~/exercises/Dockerfile
+```
 
-Open the file `Dockerfile`
+---
+**Talk in class about**
 
-Talk about the different options in the file:
+the different options in the file:
 
 - From
 
@@ -25,3 +30,7 @@ Talk about the different options in the file:
 - Copy
 
 - Expose
+
+- CMD
+
+---

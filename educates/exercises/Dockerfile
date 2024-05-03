@@ -1,5 +1,6 @@
 FROM nginx:latest
 WORKDIR usr/share/nginx/html
+ENV MY_NAME="John Doe"
 RUN apt-get update && apt-get upgrade -y
 RUN echo "test"
 COPY ./html /usr/share/nginx/html

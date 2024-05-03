@@ -8,10 +8,14 @@ title: "Docker Hub"
 - Search for Nginx
 - Click on the official image (Should be on top)
 ![Nginx](1.png)
-- Go thru the documentaion in class, and talk about:
-    - Official Image
-    - Reference
-    - Tags
-    - Image veriant
-    - OS/Arch
-    - Use of the image (Examples)
+---
+**Talk in class about**
+
+- Official Image
+- Reference
+- Tags
+- Image veriant
+- OS/Arch
+- Use of the image (Examples)
+
+---
