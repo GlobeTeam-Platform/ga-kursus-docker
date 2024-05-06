@@ -1,8 +1,6 @@
 ---
 title: "Docker Hub"
 ---
-
-
 - Open https://hub.docker.com in another tab or browser
 
 - Search for Nginx

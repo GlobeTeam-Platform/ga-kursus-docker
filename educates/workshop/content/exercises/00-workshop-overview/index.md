@@ -1,8 +1,6 @@
 ---
 title: "Workshop Overview"
 ---
-
-
 Welcome to Docker fundamentals
 
 This workshop will take you thru the basics of Docker and Docker Compose, so you understand how to 

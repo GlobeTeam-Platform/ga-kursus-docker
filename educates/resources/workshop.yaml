@@ -5,6 +5,7 @@ metadata:
 spec:
   title: "Docker fundamentals"
   description: "Learn the fundamentals of Docker"
+  url: https://github.com/GlobeTeam-Platform/ga-kursus-docker
   publish:
     image: "$(image_repository)/git-files:$(workshop_version)"
   workshop:
@@ -19,6 +20,8 @@ spec:
     namespaces:
       budget: medium
     applications:
+      slides:
+        enabled: true
       terminal:
         enabled: true
         #layout: split
