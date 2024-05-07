@@ -4,7 +4,7 @@ layout: cover
 background: /learn.jpg
 ---
 
-# Git Workshop
+# Docker Workshop
 By Globe Academy
 
 ---
@@ -13,77 +13,63 @@ layout: about-me
 
 
 ---
-layout: image-right
-image: /git.jpg
+layout: image
+
+# the image source
+image: /docker_logo.svg
+backgroundSize: 20em 70%
 ---
 
-# Git
-
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency
-![git logo](/git-logo.png)
-
-
----
-layout: section
----
-
-# Git Flow
-![git flow](/git-flow.png)
-
----
-layout: image-right
-image: /branch.jpg
----
-
-# Basic Concepts
-
-1. Repository
-
-The place where you code is storred. 
-Can be local and/or remote
-
-2. Branch
-
-Is a movable pointer to one of the commits.
-
-3. Commit
-
-Snapshot of the project with the newly added changes
-
-4. Clone
-
-Local copy of the repository. 
-
-5. Fork
-
-Copy of the main repository, under your own name.
-
----
-layout: image-right
-image: /github.jpg
----
-
-# Other solutions
-
-* [Github](www.github.com)
-* [Gitlab](www.gitlab.com)
-* [Azure Devops](https://azure.microsoft.com/en-us/products/devops/)
-* [Bitbucket](https://www.atlassian.com/software/bitbucket)
-* Others
-
----
-layout: center
-
----
-
-# Git is easy
-But can also be realy hard
-<img src="/git-joke.png" alt="git-joke" width="600"/>
+# Docker
 
 
 ---
-layout: cover
-background: /learn-2.jpg
+layout: image
+image: /docker-vs-vm.svg
+backgroundSize: 50em 70%
+---
+
+# Docker vs VM’s
+
+---
+layout: image
+image: /joe-beda-quote.jpg
+backgroundSize: 50em 70%
+---
+
+# Definition of a Docker container
+
+---
+layout: image
+image: /docker-hub.png
+backgroundSize: 45em 70%
+---
+
+# Docker Hub
+
+---
+layout: quote
+
+---
+
+# Docker HUB – Rate limit
+
+The rate limits of 100 container image requests per six hours for anonymous usage, and 200 container image requests per six hours for free Docker accounts are now in effect. Image requests exceeding these limits will be denied until the six hour window elapses.
+
+---
+layout: quote
+
+---
+
+# Dockerfile
+
+Docker can build images automatically by reading the instructions from a Dockerfile.
+
+A Dockerfile is a text document that contains all the commands a user could call on the command line to assemble an image
+
+---
+layout: image
+image: /learn-2.jpg
 ---
 
 # Start learning
