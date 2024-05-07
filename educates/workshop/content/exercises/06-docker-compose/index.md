@@ -29,11 +29,13 @@ the different options in the file:
 - Volumes (data is external from the container)
 ---
 
+To start the container (or containers) defined in the docker-compose file, you need to be in the same directory as the file, and run
+
 ```execute
 docker compose up
 ````
 
-We have now build the container again, by defining both what to do, and where to find the Dockerfile with the line `build: .`
+You have now build the container again, by defining what to do, and where to find the Dockerfile with the line `build: .`
 
 Open the App tab again, to see that the container is running again.
 
