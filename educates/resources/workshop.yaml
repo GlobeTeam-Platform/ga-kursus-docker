@@ -7,11 +7,11 @@ spec:
   description: "Learn the fundamentals of Docker"
   url: https://github.com/GlobeTeam-Platform/ga-kursus-docker
   publish:
-    image: "$(image_repository)/git-files:$(workshop_version)"
+    image: "$(image_repository)/workshop-files:$(workshop_version)"
   workshop:
     files:
     - image:
-        url: $(image_repository)/git-files:$(workshop_version)
+        url: $(image_repository)/workshop-files:$(workshop_version)
       includePaths:
       - /workshop/**
       - /exercises/**
