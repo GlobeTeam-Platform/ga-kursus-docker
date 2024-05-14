@@ -2,7 +2,7 @@
 title: "Make changes"
 ---
 
-Open html/index.html in the editor, and change the name of the student from `xxx`to your name, on line 14, and save the file again.
+Open html/index.html in the editor, and change the name of the student from `xxx` to your name, on line 14, and save the file again.
 
 ```editor:open-file
 title: Open index.html
