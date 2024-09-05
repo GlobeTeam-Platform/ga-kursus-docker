@@ -68,6 +68,17 @@ Docker can build images automatically by reading the instructions from a Docker
 A Dockerfile is a text document that contains all the commands a user could call on the command line to assemble an image
 
 ---
+layout: quote
+
+---
+
+# Docker Compose
+
+Docker Compose is a tool for defining and running multi-container Docker applications. It allows you to define a configuration file in Yaml, that specifies the services, ports, and volumes needed for your application, making it easy to spin up and manage complex systems with multiple containers.
+
+
+
+---
 layout: image
 image: /learn-2.jpg
 ---
